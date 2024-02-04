@@ -2,7 +2,7 @@
 ### Project to work with LangChain
 This project lets you play around with different settings in embedding models and LLMs to find something that works. Feed in your pdf data and using an LLM you are able to interact with that data.
 
-## Openai
+## OpenAI
 This project currently works with [Openai](https://platform.openai.com/docs/introduction) embedding models and LLMs. This requires that you have an Openai account and an Openai [API key](https://platform.openai.com/docs/quickstart/step-2-setup-your-api-key). Place your Openai key in a `.env` file at the root directory of this project with the following format, `OPENAI_API_KEY=...`
 
 ## Python environment
